@@ -1,3 +1,14 @@
+# Test Refactoring Kata with Gilded Rose
+
+This is a TestRefactoring Kata. it is based on the Gilded Rose Kata from TerryHughes. The purpose of the original Kata was to improve the source code. In this kata, however, you get a (very ugly) test suite, you need to refactor.
+
+## How to use this Kata
+
+Find you language version (currently Java, JS and Ruby), open the Spec/Test file and start improving it :)
+Everything you need to know about Gilded Rose is explained below in the original description.
+
+# Original Description of the Guilded Rose Kata
+
 This Kata was originally created by Terry Hughes (http://twitter.com/#!/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). I could have forked it again, but I thought other language users might not want to download a whole C# project environment. In this repository are starting code samples for Java, Python, Ruby, Smalltalk, C#, C and C++.
 
 See also http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/
