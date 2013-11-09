@@ -6,7 +6,7 @@ require File.join(File.dirname(__FILE__), 'gilded_rose')
 
 describe GildedRose do
 
-  it 'does update quality and sell in correctly' do
+  it 'should update quality and sell in correctly while not changing names' do
     items = [
         Item.new('+5 Dexterity Vest', 10, 20),
         Item.new('Aged Brie', 0, 0),
