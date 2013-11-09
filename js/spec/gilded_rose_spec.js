@@ -1,6 +1,6 @@
 describe("Gilded Rose", function() {
 
-    it('should update quality and sell in correctly', function() {
+    it('should update quality and sell in correctly while not changing names', function() {
         var i = 0;
         var items = [
             new Item('+5 Dexterity Vest', 10, 20),
