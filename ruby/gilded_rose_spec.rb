@@ -14,7 +14,7 @@ describe GildedRose do
         Item.new('Sulfuras, Hand of Ragnaros', 0, 0),
         Item.new('Sulfuras, Hand of Ragnaros', -1, 100),
         Item.new('Backstage passes to a TAFKAL80ETC concert', 15, 20),
-        Item.new('Backstage passes to a TAFKAL80ETC concert', 15, 49),
+        Item.new('Backstage passes to a TAFKAL80ETC concert', 15, 49)
     ]
 
     GildedRose.new().update_quality(items)
